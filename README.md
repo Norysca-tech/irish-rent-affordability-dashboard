@@ -14,6 +14,7 @@ How have rents changed across Irish counties since 2008, and where is rent least
 ## Data sources
 - CSO PxStat RIA02: RTB Average Monthly Rent Report, by county, 2008-2025
 - CSO PxStat DEA06: Annual Earnings by county, 2011-2025
+- Raw rent CSV not included due to file size. Download from data.cso.ie, table RIA02.
 
 ## Method
 - Cleaned in Power Query: filtered 62 locations (towns, cities, Dublin postal areas) down to 26 counties, removed overlapping bedroom bands and zero values (RTB's "insufficient data" flag).
